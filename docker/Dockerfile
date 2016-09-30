@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Huang Rui vowstar@gmail.com
+MAINTAINER Chen Zhangdi czd666666gmail.com
 
 ENV PATH=/opt/xtensa-lx106-elf/bin:/opt/xtensa-esp108-elf/bin:/opt/xtensa-esp32-elf/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin COMPILE=gcc
 
