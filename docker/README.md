@@ -20,7 +20,7 @@ esp-build
 
 ## (一） 安装docker
 
-<a href="https://docs.docker.com/engine/installation/" target="_blank">按照这个步骤进行安装-->   https://docs.docker.com/engine/installation/</a>
+[按照这个步骤进行安装-->   https://docs.docker.com/engine/installation/](https://docs.docker.com/engine/installation/)
 
 ## (二) 将集成了开发环境的docker镜像拉取到本地
 
