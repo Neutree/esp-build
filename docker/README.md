@@ -117,7 +117,7 @@ esptool -cc esp8266 -cp /dev/ttyUSB0 -cd nodemcu -ca 0x00000 -cf 00000.bin -ca 0
 ```
 > * 参数使用`man esptool`进行查看。二进制文件文件名及地址参考SDK说明
 > * 注意在下载的时候串口不能被占用哦～（*比如串口助手正在使用串口*）否则会下载失败滴
-
+> * 注意如果使用nodemcu,下载模式要使用DIO哦
 
 ##### esp32 SDK
 
