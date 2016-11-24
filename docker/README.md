@@ -27,7 +27,11 @@ esp-build
 ```bash
 docker pull neucrack/esp-build
 ```
-> * 国内拉去的过程可能比较慢或者出错，请耐心尝试
+或者
+```bash
+docker pull daocloud.io/neucrack/esp-build
+```
+> * 第一个国内拉去的过程可能比较慢或者出错，请耐心尝试，可以使用国内的daocloud镜像加速服务或者直接使用第二个命令
 
 ## (三) 运行容器
 
